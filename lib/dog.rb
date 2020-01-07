@@ -7,10 +7,10 @@ class Dog
     dog_array = []
     dog_array << Dog(@name)
   end
-
-  fido = Dog.new
-  snoopy = Dog.new
-  lassie = Dog.new
 end
+
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
 
 #binding.pry
